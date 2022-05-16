@@ -1,4 +1,4 @@
-![Qark's Market profile](Qark-Dev.jpg)
+<img src="Qark-Dev.jpg" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto;">
 
 ![Qark's Github stats](https://github-readme-stats.vercel.app/api?username=qark-dev&theme=dark&show_icons=true)
 
