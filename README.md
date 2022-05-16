@@ -10,7 +10,7 @@
   * react with typescript 
 - 🔨 My toolset comprises of Git, Docker and Kubernetes, and vscode.<br /> I use Arch Linux as my daily driver btw
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qark-dev&theme=dark&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qark-dev&theme=dark&show_icons=true)
   
 - 💞️ I’m looking to collaborate on open source projects within my current skill level
 - 📫 You can reach me via my [website](website), my [linkedin](linkedin) or just here on [github](github)
