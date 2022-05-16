@@ -1,3 +1,5 @@
+![Qark's Market profile](Qark-Dev.jpg)
+
 ![Qark's Github stats](https://github-readme-stats.vercel.app/api?username=qark-dev&theme=dark&show_icons=true)
 
 - 👋 Hi, I’m @Qark-dev
@@ -21,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/qark-dev-5079a8239
 [github]: https://github.com/Qark-dev
 [website]: https://www.qatto.dev
+[twitter]: https://twitter.com/qark_dev
